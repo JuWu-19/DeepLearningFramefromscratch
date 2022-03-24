@@ -28,7 +28,7 @@ Model parameters are initialized in uniform distribution randomly. We did 10 rou
 per epoch of each round for each configuration of network. 
 
 The classification results for test sets and training accuracy/loss as\
-<img src="https://user-images.githubusercontent.com/58901415/160010886-660552f1-fc23-4f16-8266-4b6d205f0265.png" width="36%" height="36%" />
+<img src="https://user-images.githubusercontent.com/58901415/160010886-660552f1-fc23-4f16-8266-4b6d205f0265.png" width="36%" height="36%" />\
 The training accuracy/loss as\
 <img src="https://user-images.githubusercontent.com/58901415/160011666-0f494dc9-dc58-4bb3-a9b5-b85b94c45638.png" width="72%" height="72%" />
 <img src="https://user-images.githubusercontent.com/58901415/160011768-08241359-d8e0-4e53-899b-53c1508e6cd1.png" width="72%" height="72%" />
